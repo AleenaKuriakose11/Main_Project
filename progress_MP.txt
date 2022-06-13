@@ -1,0 +1,9 @@
+AUTO SCRUPLE
+
+*Studied about blockchain
+*Researched the IEEE papers
+*Analysed project requirements
+*Installed ganache-Truffle suit
+*Installed web3
+*Installed metamask
+*Did the ui designs
